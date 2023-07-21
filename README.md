@@ -5,14 +5,16 @@
 
 ## SCREENSHOT
 <table>
+  
   <tr>
     <th>
       <img src="https://github.com/AthiraPG-3/FileServerImpl-listing-uploading-downloading-/blob/main/screenshot/SCREENSHOT.jpg?raw=true">
     </th>
   </tr>
-   <tr>
+  
+  <tr>
     <th>
-      <img src="https://github.com/AthiraPG-3/FileServerImpl-listing-uploading-downloading-/blob/main/screenshot/clientscreenshot?raw=true">
+      <img src="https://github.com/AthiraPG-3/FileServerImpl-listing-uploading-downloading-/blob/main/screenshot/clientscreenshot.JPG?raw=true">
     </th>
   </tr>
 </table>
